@@ -14,3 +14,4 @@ Here you can find links to small projects that I've done during the course.
 | --------------- | ----------------------------------------------- |
 | Guess my Number | [Visit](https://guess-my-number-clk.pages.dev/) |
 | Modal window    | [Visit](https://modal-window.pages.dev/)        |
+| Pig game        | [Visit](https://pig-game-cfr.pages.dev/)        |
